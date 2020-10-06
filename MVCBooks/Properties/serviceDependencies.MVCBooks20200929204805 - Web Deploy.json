@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/mehtaassign02server/databases/MehtaAssign02-3cdf52ce-bc27-4e10-89e9-110e00cc5cdd",
+      "type": "mssql.azure",
+      "connectionId": "MVCBooksContext",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
